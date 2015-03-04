@@ -1,6 +1,6 @@
 ---
 layout: default
-tilte: 柴静和傻逼
+title: 柴静和傻逼
 ---
 
 ---
