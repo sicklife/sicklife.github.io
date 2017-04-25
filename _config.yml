@@ -1,1 +1,7 @@
 baseurl: /sicklife.github.io
+
+title: Curriculum Vitae
+description: 
+google_analytics: UA-60336688-1
+show_downloads: true
+theme: jekyll-theme-cayman
