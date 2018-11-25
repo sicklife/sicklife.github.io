@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 柴静和傻逼
+published: false
 ---
 
 ---
